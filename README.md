@@ -81,5 +81,4 @@ This project implements an **🚗 Adaptive Cruise Control (ACC) system** using a
 This project is **🆓 open-source** and can be modified or distributed freely.
 
 ---
-### 🚀 Happy Coding! 😃
 
